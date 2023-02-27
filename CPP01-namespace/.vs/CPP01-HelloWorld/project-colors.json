@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a576d9b-9e95-4fc0-88b0-cb9e25627d33": {
+      "ProjectGuid": "6a576d9b-9e95-4fc0-88b0-cb9e25627d33",
+      "DisplayName": "CPP01-HelloWorld",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
